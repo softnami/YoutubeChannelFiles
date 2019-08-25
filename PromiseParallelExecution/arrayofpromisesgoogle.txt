@@ -1,0 +1,3 @@
+Company: Google (UI)
+
+Given an array of promises execute the promises in parallel and return the result.

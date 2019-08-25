@@ -1,0 +1,3 @@
+Company: Apple (UI)
+
+How to transform values in a JavaScript array?
