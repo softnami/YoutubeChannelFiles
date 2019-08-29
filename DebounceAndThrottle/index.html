@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  <title>Throttle and Debounce Example</title>
+</head>
+<body>
+  <button type="button" name="button" id="demo-btn">Click Me</button>
+</body>
+<script type="module">
+  import {throttle, debounce} from "./throttleandebouncegoogle.js";
+  let btn = document.getElementById("demo-btn");
+  btn.addEventListener('click', debounce(function(){console.log('executed'); }, 100));
+</script>
+</html>
