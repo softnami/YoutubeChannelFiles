@@ -1,0 +1,10 @@
+Company: Walmart Labs (UI)
+
+Write an efficient function to return the nth term of the Fibonacci sequence.
+Follow-up Questions:
+1. What is the time complexity for recursive Fibonacci sequence?
+   O(2^n)
+2. What is the time complexity for recursive Fibonacci sequence when using memoisation?
+   O(n)
+3. What is the difference between a recursive and an iterative approach to Fibonacci sequence?
+    
