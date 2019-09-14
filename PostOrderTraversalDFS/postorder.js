@@ -64,3 +64,7 @@ let postorder = (rootNode)=>{
 
 
 postorder(root);
+
+
+//Time: O(n)
+//Space: O(h)
